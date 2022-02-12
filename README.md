@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin
-- 👀 I’m interested in developing React applications 
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in solving problems and enrich my skills
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
