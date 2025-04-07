@@ -6,6 +6,11 @@ Hey there 👋! I am Nitin, a technology enthusiastic instereted in going deep i
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsharmacs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharmacs&langs_count=10&layout=compact)
 
+# Website
+
+<a href="https://nitinsharmacs.github.io/" target="_blank">![image](https://nitinsharmacs.github.io/static/og-image.png) </a>
+
+
 # Social
 
 <a href="https://www.linkedin.com/in/nitin-s-8669a4188/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
